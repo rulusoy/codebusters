@@ -9,6 +9,9 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.Pane;
 import javafx.scene.text.Text;
 
+//ButtonDemo class
+//Author: Mary
+//Date 22 Aug
 public class ButtonDemo extends Application {
   protected Text text = new Text(50, 50, "JavaFX Programming");
   
