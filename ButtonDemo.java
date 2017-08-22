@@ -1,6 +1,8 @@
 //Author: Jack
 //Date: 22 August 2017
 
+//This is new comment
+
 import javafx.application.Application;
 import javafx.stage.Stage;
 import javafx.geometry.Pos;
